@@ -1,0 +1,21 @@
+
+h1{
+    color: rgb(0, 89, 255);
+    text-align: center;
+}
+
+
+table{
+    margin-top: 3%;
+}
+strong{
+    font-size: 3em;
+}
+.card
+{
+    width: 50%;
+}
+.card-header
+{
+    background-color: goldenrod;
+}
